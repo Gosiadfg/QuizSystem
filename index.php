@@ -19,7 +19,7 @@
  <meta name="description" content ="Stwórz swój własny quiz lub rozwiąż quiz, żeby sprawdzić swoją wiedzę! />
  <meta name="keywords" content="quiz, system quizów, kreatro quizów, stwórz quiz, rozwiąż quiz, test wiedzy" />
  <meta http-equiv="X-UA-Compatible" content=IE=edge,chrome=1" />
- <meta name="author" content="Małgorzata Sierbin" />
+ <meta name="author" content="" />
  <link rel="stylesheet" href="style.css" type="text/css"/>
 </head>
 
