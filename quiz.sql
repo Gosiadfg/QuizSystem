@@ -74,7 +74,7 @@ INSERT INTO `login` (`id`, `Login`, `Haslo`, `Email`) VALUES
 (9, 'Basia', '$2y$10$xrBc/VqE4A/XJ5D2zjCM6.Fvs/yhuxw76X5aVClaekYHquMMFPKFy', 'basia@gmail.com'),
 (10, 'qwerty', '$2y$10$CST0ZZC8vmaMniQbALHSFuzz2MGCk5Pc7O936eMFnednOWvyauil6', 'qwerty@qw.pl'),
 (11, 'user25', '$2y$10$tboeMHF1.7iPCuG2fvm1QOOEO2v4UB6c6I.K4QTbpBf1yZOw1nInS', 'user25@gmail.com'),
-(25, 'TestAplikacji', '$2y$10$tQpZ2zUJMovk4b7aJKkKUejS/ZrEkWBDDE5Fkbq5rZ1HBhg2Izy5K', 'sierbin.malgorzata@gmail.com');
+(25, 'TestAplikacji', '$2y$10$tQpZ2zUJMovk4b7aJKkKUejS/ZrEkWBDDE5Fkbq5rZ1HBhg2Izy5K', 'example@gmail.com');
 
 -- --------------------------------------------------------
 
