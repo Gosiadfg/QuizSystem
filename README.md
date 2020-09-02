@@ -1,13 +1,15 @@
-1. Zainstalowaæ program XAMPP 7.3.1.
-2. W folderze "xampp/sendmail" podmieniæ plik "sendmail.ini" oraz uzupe³niæ w nim wartoœci zmiennnych auth_username, auth_password i force_sender.
-3. W folderze "xampp/php" podmieniæ plik "php.ini oraz uzupe³niæ wartoœæ zmiennej sendmail_from.
-4. Folder z pozosta³ymi plikami przenieœæ do folderu "xampp/htdocs".
-5. W pliku rejestracja.php ustawiæ wartoœæ zmiennych "sekret" oraz "data-sitekey".
-5. Uruchomiæ "xampp/xampp-control.exe".
-6. W panelu kontrolnym XAMPP uruchomiæ serwer Apache i MySQL
-7. W przegl¹darce uruchomiæ adres "localhost/phpmyadmin/".
-8. Na górnym pasku menu w phpMyAdmin wybraæ zak³adkê "Bazy danych".
-9. Utworzyæ bazê danych o nazwie "quiz" z kodowaniem "utf8_polish_ci".
-10. Z lewej strony z listy wybraæ bazê "quiz".
-11. W menu wybraæ "import" i zaimportowaæ plik "quiz.sql" z folderu "systemquizow" z p³yty.
-12. W przegl¹darce uruchomiæ adres "localhost/QuizSystem".
+Created in 2018&2019
+
+1. ZainstalowaÄ‡ program XAMPP 7.3.1.
+2. W folderze "xampp/sendmail" podmieniÄ‡ plik "sendmail.ini" oraz uzupeÅ‚niÄ‡ w nim wartoÅ›ci zmiennnych auth_username, auth_password i force_sender.
+3. W folderze "xampp/php" podmieniÄ‡ plik "php.ini oraz uzupeÅ‚niÄ‡ wartoÅ›Ä‡ zmiennej sendmail_from.
+4. Folder z pozostaÅ‚ymi plikami przenieÅ›Ä‡ do folderu "xampp/htdocs".
+5. W pliku rejestracja.php ustawiÄ‡ wartoÅ›Ä‡ zmiennych "sekret" oraz "data-sitekey".
+5. UruchomiÄ‡ "xampp/xampp-control.exe".
+6. W panelu kontrolnym XAMPP uruchomiÄ‡ serwer Apache i MySQL
+7. W przeglÄ…darce uruchomiÄ‡ adres "localhost/phpmyadmin/".
+8. Na gÃ³rnym pasku menu w phpMyAdmin wybraÄ‡ zakÅ‚adkÄ™ "Bazy danych".
+9. UtworzyÄ‡ bazÄ™ danych o nazwie "quiz" z kodowaniem "utf8_polish_ci".
+10. Z lewej strony z listy wybraÄ‡ bazÄ™ "quiz".
+11. W menu wybraÄ‡ "import" i zaimportowaÄ‡ plik "quiz.sql" z folderu "systemquizow" z pÅ‚yty.
+12. W przeglÄ…darce uruchomiÄ‡ adres "localhost/QuizSystem".
